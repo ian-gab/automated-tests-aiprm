@@ -4,6 +4,7 @@ screenshots/
 google-storage-state.json
 .chrome-profile/
 extension/
+AIPRM_AUTO/
 playwright-report/
 test-results/
 Claude outputs/
