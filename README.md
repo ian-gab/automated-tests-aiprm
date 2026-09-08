@@ -1,5 +1,3 @@
-# Google TOTP login test
-
 ## Run locally
 
 ```
