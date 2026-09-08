@@ -2,6 +2,8 @@
 
 ## Install
 
+Requires [Node.js](https://nodejs.org/).
+
 ```
 npm install
 npx playwright install chromium
