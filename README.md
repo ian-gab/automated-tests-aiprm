@@ -4,6 +4,7 @@
 
 ```
 npm install
+npx playwright install chromium
 ```
 
 Unzip the patched AIPRM extension into `./extension`, and copy `.env.example` to `.env` with the test Google account credentials.
