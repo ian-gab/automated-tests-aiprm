@@ -1,0 +1,27 @@
+{
+  "name": "google-login-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report",
+    "login": "tsx run-login.ts",
+    "login:chatgpt": "tsx run-login-install-chatgpt.ts",
+    "aiprm:connect-disconnect": "tsx run-aiprm-connect-disconnect.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "otplib": "^13.5.0",
+    "playwright": "^1.62.1",
+    "tsx": "^4.23.12"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}

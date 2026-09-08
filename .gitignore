@@ -1,0 +1,9 @@
+.env
+node_modules/
+screenshots/
+google-storage-state.json
+.chrome-profile/
+extension/
+playwright-report/
+test-results/
+Claude outputs/
